@@ -48,4 +48,3 @@
 <a href="https://suyash-nayan.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
