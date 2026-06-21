@@ -13,7 +13,7 @@ I primarily work in **Rust, Java, Go, and JavaScript**.
 - DeFi market structure, AMMs, and MEV infrastructure
 - Node observability, RPC APIs, and reliability tooling
 
-## Selected projects
+## Projects
 
 ### [Ethereum P2P Mempool Crawler](https://github.com/7suyash7/eth-p2p-mempool-crawler)
 
@@ -38,7 +38,7 @@ Awarded second place at a Flow blockchain hackathon.
 
 `Go` `Benchmarking` `Distributed Systems` `Performance`
 
-## Selected open-source contributions
+## Highlighted open-source contributions
 
 I have authored 50+ pull requests, including 30+ merged contributions.
 
